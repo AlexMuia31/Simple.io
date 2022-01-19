@@ -6,7 +6,9 @@ function App() {
   return (
     <Container>
       <Appbar />
-      <LandingPage />
+      <form>
+        <LandingPage />
+      </form>
     </Container>
   );
 }

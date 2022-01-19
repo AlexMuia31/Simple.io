@@ -66,9 +66,6 @@ export const TokenName = () => {
                     />
                 </form>
             </div>
-
-
-
         </div>
 
     )
